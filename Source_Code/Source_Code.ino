@@ -1,10 +1,9 @@
 /*  Servo Arm Mover With Keypad And I2C LCD 16x2
  * 
- *  GitHub URL - https://github.com/narayanvyas/Arduino-Ultrasonic-Distance-Sensor-HC-SR04-With-Servo-Motor-And-LCD
+ *  GitHub URL - https://github.com/narayanvyas/Arduino-Servo-Motor-With-Keypad-And-LCD-I2C
  * 
  *  Developed By Web Dev Fusion
- *  URL - https://www.webdevfusion.com
- *  
+ *  URL - https://www.webdevfusion.com84485 *  
  * Components
  * ----------
  *  - Arduino Uno
@@ -12,6 +11,7 @@
  *  - Keypad (4*4)
  *  - Jumper Wires
  *  - Breadboard / PCB
+ *  - Servo Motor
  *  
  *  Libraries
  *  ---------
